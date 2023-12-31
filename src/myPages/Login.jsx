@@ -13,11 +13,11 @@ const Login = () => {
   const { id } = useParams();
   console.log(id);
 
-  const [email, setEmail] = useState("cat1@cat.com");
-  const [password, setPassword] = useState("1234");
+  // const [email, setEmail] = useState("cat1@cat.com");
+  // const [password, setPassword] = useState("1234");
 
-  // const [email, setEmail] = useState("");
-  // const [password, setPassword] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
 
   const { login, isLoading } = useLogin();
 
