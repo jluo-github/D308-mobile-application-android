@@ -25,4 +25,4 @@ dist-ssr
 .env
 
 
-../services/supabase.jsx
+../src/services/supabase.jsx
