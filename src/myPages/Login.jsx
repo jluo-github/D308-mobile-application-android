@@ -7,6 +7,7 @@ import Footer from "../components/Footer";
 import supabase from "../services/supabase";
 
 import { useLogin } from "../authentication/useLogin";
+vfcdx;
 
 const Login = () => {
   const navigate = useNavigate();
