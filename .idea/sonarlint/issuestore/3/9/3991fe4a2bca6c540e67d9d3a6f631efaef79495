@@ -1,0 +1,48 @@
+
+k
+java:S1192E"IDefine a constant instead of duplicating this literal "MM/dd/yy" 7 times.(¼û¦Âÿÿÿÿÿ8ûÈ°Ä®1
+E
+java:S1604Z"(Make this anonymous inner class a lambda(‰€€â8ûÈ°Ä®1
+J
+java:S1604d"(Make this anonymous inner class a lambda(³â—şÿÿÿÿ8ûÈ°Ä®1
+F
+java:S1604Œ"(Make this anonymous inner class a lambda(ÁÊíã8ûÈ°Ä®1
+F
+java:S1604–"(Make this anonymous inner class a lambda(ç·Õ¨8ûÈ°Ä®1
+K
+java:S1604Á"(Make this anonymous inner class a lambda(ù‘’Øüÿÿÿÿ8ûÈ°Ä®1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Ãßíüÿÿÿÿ8ıÈ°Ä®1
+t
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ8‘É°Ä®1
+Y
+java:S1117L"=Rename "startDate" which hides the field declared at line 45.(ÿ˜û	8“É°Ä®1
+X
+java:S1117S";Rename "endDate" which hides the field declared at line 47.(ò­¯8“É°Ä®1
+F
+java:S1481i")Remove this unused "date" local variable.(óûë8“É°Ä®1
+]	java:S125n"<This block of commented-out lines of code should be removed.(«”ÕÄùÿÿÿÿ8”É°Ä®1
+G
+java:S1481œ")Remove this unused "date" local variable.(óûë8•É°Ä®1
+^	java:S125¢"<This block of commented-out lines of code should be removed.(«”ÕÄùÿÿÿÿ8•É°Ä®1
+X
+java:S1161é":Add the "@Override" annotation above this method signature(Ôö§ó8›É°Ä®1
+p
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ñ”Ò8›É°Ä®1
+[
+java:S1854ƒ">Remove this useless assignment to local variable "dateFormat".(ûûM8¥É°Ä®1
+X
+java:S1161ï":Add the "@Override" annotation above this method signature(ñ”Ò8¥É°Ä®1
+L
+java:S1481ƒ"/Remove this unused "dateFormat" local variable.(ûûM8¥É°Ä®1
+`
+java:S1117”"=Rename "startDate" which hides the field declared at line 45.(ËØÄÿÿÿÿÿ8¥É°Ä®1
+Y
+java:S1117•";Rename "endDate" which hides the field declared at line 47.(³’¾ÿ8¥É°Ä®1
+\
+java:S1155°">Use isEmpty() to check whether the collection is empty or not.(ïÚ†ï8¦É°Ä®1
+Y
+java:S2696¡"6Make the enclosing method "static" or remove this set.(÷¤…úÿÿÿÿ8©É°Ä®1
+T
+java:S2696­"6Make the enclosing method "static" or remove this set.(•Ùæè8©É°Ä®1
+å
+java:S6541ï"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 164 to 64, Complexity from 21 to 14, Nesting Level from 4 to 2, Number of Variables from 35 to 6.(ñ”Ò8«É°Ä®1

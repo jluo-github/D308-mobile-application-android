@@ -1,0 +1,9 @@
+
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÜŸ©8Œ­¥­1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Ãßíüÿÿÿÿ8­¥­1
+q	java:S116"URename this field "channel_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šĞ‚ê8“­¥­1
+O
+java:S1135"2Complete the task associated to this TODO comment.(ùØÌ¨8•­¥­1
+X
+java:S2696$"6Make the enclosing method "static" or remove this set.(ü°àğùÿÿÿÿ8µ«¬­1
+]	java:S125)"<This block of commented-out lines of code should be removed.(ò€øªøÿÿÿÿ8·ü¥­1

@@ -1,0 +1,36 @@
+
+k
+java:S1192:"IDefine a constant instead of duplicating this literal "MM/dd/yy" 5 times.(¼û¦Âÿÿÿÿÿ8íàúÄ®1
+d
+java:S1192º"FDefine a constant instead of duplicating this literal "Debug" 3 times.(ãªûˆ8íàúÄ®1
+E
+java:S1604P"(Make this anonymous inner class a lambda(‰€€â8íàúÄ®1
+E
+java:S1604_"(Make this anonymous inner class a lambda(½ğ·„8íàúÄ®1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Ãßíüÿÿÿÿ8îàúÄ®1
+Y
+java:S1117@"=Rename "startDate" which hides the field declared at line 40.(ÿ˜û	8ˆáúÄ®1
+T
+java:S1135U"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‰áúÄ®1
+F
+java:S1481e")Remove this unused "date" local variable.(óûë8‰áúÄ®1
+]	java:S125k"<This block of commented-out lines of code should be removed.(«”ÕÄùÿÿÿÿ8‰áúÄ®1
+X
+java:S1161’":Add the "@Override" annotation above this method signature(Ôö§ó8ŠáúÄ®1
+p
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ñ”Ò8‹áúÄ®1
+[
+java:S1854¢">Remove this useless assignment to local variable "dateFormat".(ûûM8‹áúÄ®1
+X
+java:S1161—":Add the "@Override" annotation above this method signature(ñ”Ò8‹áúÄ®1
+L
+java:S1481¢"/Remove this unused "dateFormat" local variable.(ûûM8ŒáúÄ®1
+`
+java:S1117µ"=Rename "startDate" which hides the field declared at line 40.(ËØÄÿÿÿÿÿ8ŒáúÄ®1
+[
+java:S1155ß">Use isEmpty() to check whether the collection is empty or not.(¬ˆq8áúÄ®1
+T
+java:S2696¬"6Make the enclosing method "static" or remove this set.(ßÚåØ8‘áúÄ®1
+^	java:S125¾"<This block of commented-out lines of code should be removed.(–‘¯ıÿÿÿÿ8‘áúÄ®1
+å
+java:S6541—"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 125 to 64, Complexity from 15 to 14, Nesting Level from 4 to 2, Number of Variables from 24 to 6.(ñ”Ò8‘Ë‹Æ®1

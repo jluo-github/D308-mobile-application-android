@@ -1,0 +1,14 @@
+
+E
+java:S1604'"(Make this anonymous inner class a lambda(ú“Úå8áÁ©¢®1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Ãßíüÿÿÿÿ8âÁ©¢®1
+]	java:S125 "<This block of commented-out lines of code should be removed.(ÇÎ†µûÿÿÿÿ8ºµÔÄ®1
+]	java:S125&"<This block of commented-out lines of code should be removed.(æ¼Éúûÿÿÿÿ8ÈÃÒÄ®1
+[
+java:S1854H">Remove this useless assignment to local variable "vacationID".(·àŒÑ8ığØÄ®1
+L
+java:S1481H"/Remove this unused "vacationID" local variable.(·àŒÑ8ığØÄ®1
+]	java:S125J"<This block of commented-out lines of code should be removed.(‚ÎËÜøÿÿÿÿ8ığØÄ®1
+X	java:S125M"<This block of commented-out lines of code should be removed.(ÚÓã8ığØÄ®1
+J
+java:S1068"-Remove this unused "mVacation" private field.(˜Ììí8úÁ©¢®1
